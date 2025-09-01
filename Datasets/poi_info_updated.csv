@@ -1,0 +1,79 @@
+poi_id,poi_name,category_id,category_name,longitude,latitude
+54,Basilica di Santa Anastasia,1,Chiese,16673.45.00,45.445.176.000.000.000
+52,complesso del Duomo,1,Chiese,166142.21.00,4.544.707.660.000.000
+70,Chiesa di San Bernardino,1,Chiese,163530.46.00,73195.54.00
+74,Chiesa di Santa Maria in Organo,1,Chiese,729.57.00,74111.56.00
+51,Chiesa di San Lorenzo,1,Chiese,165261.42.00,73567.17.00
+73,Chiesa di San Giorgio in Braida,1,Chiese,165965.19.00,74854.27.00
+63,Basilica di San Zeno,1,Chiese,163115.55.00,7417.52.00
+62,Chiesa di San Fermo,1,Chiese,14.55,73244.12.00
+79,Chiesa di Santa Maria Antica,1,Chiese,166535.58.00,7437.14.00
+48,Porta Leoni,2,Monumenti,166623.21.00,73458.55.00
+77,Piazza Bra,2,Monumenti,165414.08.00,73184.36.00
+78,Palazzo del Governo e della Prefettura,2,Monumenti,166450.21.00,73988.12.00
+44,Porta Borsari,2,Monumenti,16566.25.00,73703.15.00
+110,Torre del Gardello,2,Monumenti,166105.42.00,73969.22.00
+72,Loggia del Consiglio,2,Monumenti,166363.11.00,73997.36.00
+53,Biblioteca Capitolare,2,Monumenti,166067.28.00,74560.35.00
+56,Piazza dei Signori o Piazza Dante,2,Monumenti,166351.34.00,7436.43.00
+57,Palazzo del Capitanio o del Tribunale,2,Monumenti,166428.54.00,7435.07.00
+58,Palazzo della Ragione o del Comune,2,Monumenti,166332.47.00,73898.11.00
+59,Torre dei Lamberti,2,Monumenti,166286.45.00,73872.09.00
+60,Piazza Erbe,2,Monumenti,166190.11.00,73912.37.00
+46,Ponte Pietra,2,Monumenti,12.41,7507.23.00
+47,Teatro Romano,2,Monumenti,42.08.00,7496.33.00
+55,Arche Scaligere,2,Monumenti,166506.14.00,73965.18.00
+43,Arco dei Gavi,2,Monumenti,16490.38.00,7380.21.00
+49,Anfiteatro Arena,2,Monumenti,16587.52.00,7363.36.00
+75,Giardino Giusti,2,Monumenti,1204.28.00,73989.27.00
+100,Porta Nuova,2,Monumenti,164688.35.00,71906.38.00
+101,Porta San Zeno,2,Monumenti,162592.54.00,73846.07.00
+102,Porta Palio,2,Monumenti,163348.23.00,72599.54.00
+50,Castelvecchio,2,Monumenti,164648.22.00,73298.47.00
+201,Museo di Storia Naturale,4,Musei e Centri Espositivi,377.54.00,73108.23.00
+200,Museo Africano,4,Musei e Centri Espositivi,1019.51.00,7483.27.00
+42,Museo archeologico al teatro romano,4,Musei e Centri Espositivi,14.06,790.08.00
+45,Sito archeologico degli scavi Scaligeri,4,Musei e Centri Espositivi,166650.48.00,7429.21.00
+202,"Museo degli Affreschi ""G.B. Cavalcaselle"" e Tomba di Giulietta",4,Musei e Centri Espositivi,10.996.989.900.000.000,72336.05.00
+71,Museo di Castelvecchio,4,Musei e Centri Espositivi,164648.22.00,73340.11.00
+61,Casa di Giulietta,4,Musei e Centri Espositivi,166415.03.00,73686.47.00
+76,Museo Lapidario Maffeiano,4,Musei e Centri Espositivi,165191.57.00,73089.34.00
+203,"Galleria d'Arte Moderna ""Achille Forti""",4,Musei e Centri Espositivi,166347.32.00,73898.49.00
+61,Casa di Giulietta,5,"Palazzi, torri e castelli",166415.03.00,73686.47.00
+1,IAT Verona Centro,6,Servizi,1,2
+2,Stazione Verona Porta Nuova,6,Servizi,2,2
+3,Stadio Marcantonio Bentegodi,6,Servizi,1,1
+4,Veronafiere,6,Servizi,12,4
+5,Aeroporto Verona Villafranca (Valerio Catullo),6,Servizi,5,7
+6,Funicolare di Castel San Pietro,6,Servizi,3,8
+7,Parcheggio Cittadella (APCOA),6,Servizi,2,9
+8,Parcheggio Arena (SABA),6,Servizi,15,37
+9,Ospedale Civile Maggiore — Borgo Trento (Polo “P. Confortini”),7,Salute,12,22
+10,Policlinico “G.B. Rossi” — Borgo Roma (University Hospital),7,Salute,23,10
+11,Farmacia Internazionale — Piazza Bra,7,Salute,44,21
+12,Farmacia al Giglio — Corso Porta Borsari,7,Salute,15,18
+13,Farmacia Comunale 10 — Via San Marco (Borgo Milano),7,Salute,22,18
+14,Antica Bottega del Vino,8,Ristorazione,23,24
+15,Osteria Le Vecete,8,Ristorazione,16,12
+16,Trattoria al Pompiere,8,Ristorazione,19,13
+17,Locanda Castelvecchio,8,Ristorazione,32,27
+18,Osteria al Duca,8,Ristorazione,14,55
+19,Pasticceria Flego,8,Ristorazione,47,32
+20,Gelateria Savoia,8,Ristorazione,41,20
+21,La Boutique del Gelato,8,Ristorazione,58,25
+22,Gelateria La Romana,8,Ristorazione,33,40
+23,Vittoria 1938 Gelato e Caffè,8,Ristorazione,44,28
+24,Gelateria Ponte Pietra,8,Ristorazione,7,21
+25,Università degli Studi di Verona,9,Istruzione,23,35
+26,Accademia di Belle Arti di Verona,9,Istruzione,30,52
+27,Conservatorio di Musica “E. F. Dall’Abaco”,9,Istruzione,36,41
+28,IUSVE – Istituto Universitario Salesiano Venezia (Campus di Verona),9,Istruzione,53,49
+29,Archivio (cocktail bar),10,Bar,24,10
+30,Santa Maria Craft Pub (beer bar),10,Bar,50,63
+31,Osteria La Mandorla (natural-wine bar),10,Bar,29,53
+32,Doppio Malto (brewpub),10,Bar,7,38
+33,Multisala Rivoli,11,Cinema,164,187
+34,Cinema Fiume,11,Cinema,155,124
+35,A.M.E.N,12,Discoteca,120,133
+36,Berfi’s Club,12,Discoteca,85,98
+37,LOVE (Disco Love Verona),12,Discoteca,111,63
