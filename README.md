@@ -1,4 +1,5 @@
-# Knowledge-Augmented LLMs for Personalized Query Suggestion
+# Enhancing Query Recommendations Through User Behavior Analysis
+*K-LaMP extension with ORCID-based user profiles and Gemini API for personalized next-query suggestions.*
 
 This repository contains the implementation of a **K-LaMP-inspired framework** for **personalized contextual query suggestion**,  
 developed as part of my MSc thesis in Data Science (University of Verona).  
@@ -8,7 +9,6 @@ and extends them by integrating **ORCID profiles** and **user attributes** (prof
 into the entity-centric knowledge store.
 
 ---
-
 ## 📑 Workflow
 
 1. **Data Loading**: POI dataset, descriptions, and user profiles.  
